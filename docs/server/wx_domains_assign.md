@@ -7,7 +7,7 @@
 | サブドメイン | 完全ドメイン(逆引き)    | 関連レポジトリ                                                                                                            | 説明                                          | 備考                 |
 | :----------: | :---------------------- | :------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------- | :------------------- |
 |    `xhd`     | `org.dev-pack.xhd`      | [GitHub: `DevelopersPackages-org/TempWebsite`](https://github.com/DevelopersPackages-org/TempWebsite)                     | 公式サイト暫定                                |                      |
-|    `dev`     | `org.dev-pack.dev`      | [GitHub: `DevelopersPackages-org/org.dev-pack`](https://github.com/DevelopersPackages-org/org.dev-pack)                   | 新公式サイト試験(完成後は `xhd` を置き換える) | 予定(未ルーティング) |
+|    `exam`    | `org.dev-pack.exam`     | [GitHub: `DevelopersPackages-org/org.dev-pack`](https://github.com/DevelopersPackages-org/org.dev-pack)                   | 新公式サイト試験(完成後は `xhd` を置き換える) | 予定(未ルーティング) |
 |     `gs`     | `org.dev-pack.gs`       | [GitHub: `DevelopersPackages-org/org.dev-pack.gs`](https://github.com/DevelopersPackages-org/org.dev-pack.gs)             | 旧公式サイト                                  |                      |
 |   `tetra`    | `org.dev-pack.tetra`    | [GitHub: `DevelopersPackages-org/org.dev-pack.tetra`](https://github.com/DevelopersPackages-org/org.dev-pack.tetra)       | 移行時暫定公式サイト                          | 予定(未ルーティング) |
 |   `manage`   | `org.dev-pack.manage`   | [GitHub: `DevelopersPackages-org/org.dev-pack.manage`](https://github.com/DevelopersPackages-org/org.dev-pack.manage)     | 管理サイト(管理システムの一部)                | 予定(未ルーティング) |
