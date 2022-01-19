@@ -1,4 +1,4 @@
-# Domain Assignment Table
+# Domain Assignment Table of DevelopersPackages.org for Mail System
 
 | サブドメイン | 完全ドメイン(逆引き) | 割当対象           | 総数 | 割当ローカル部例示                    | 備考 |
 | :----------: | :------------------- | :----------------- | :--- | :------------------------------------ | :--- |
