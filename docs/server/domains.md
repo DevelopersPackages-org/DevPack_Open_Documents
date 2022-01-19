@@ -1,4 +1,4 @@
-# Domains and Repositories of DevelopersPackages.org for Web/Xanadu Sites
+# Table on Domains and Repositories of DevelopersPackages.org for Web/Xanadu Sites
 
 ## Sub-Domains: `dev-pack.org`
 
