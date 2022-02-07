@@ -20,7 +20,7 @@
 | :----------: | :-------------------- | :-------------------------------------------------------------------------------------------------------------------- | :--------------- | -------------------- |
 |   `chetro`   | `org.dev-pack.chetro` | [GitHub: `Chetro-Project/org.dev-pack.chetro`](https://github.com/Chetro-Project/org.dev-pack.chetro)                 | 公式サイト       |                      |
 |    `atfe`    | `org.dev-pack.atfe`   | [GitHub: `Chetro-Project/All_the_Filename_extensions`](https://github.com/Chetro-Project/All_the_Filename_extensions) | 拡張子大全サイト | 予定(未ルーティング) |
-|   `sicode`   | `org.dev-pack.sicode` | [GitHub: `IresChasc/Sicode_SRI`](https://github.com/IresChasc/Sicode_SRI)                                             | Sicode サイト    | 予定(未ルーティング) |
+|   `sicode`   | `org.dev-pack.sicode` | [GitHub: `IresChasc/Sicode_SRI`](https://github.com/IresChasc/Sicode_SRI)                                             | Sicode サイト    | |
 
 ### 《Ches プロジェクト》
 
